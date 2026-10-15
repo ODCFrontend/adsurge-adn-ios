@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdSurgeSDK",
-            url: "https://staticfile.qq.com/odc-ios/pcb82ebc9bce7420f9d08563d9a35641c/abbf2fc89dde429c8003fa854b7ec46c/AdSurgeSDK.zip",
-            checksum: "308e2823fd109ed2a691ad9ae94c62211289b29c34416400b7458e1883b14d69"
+            url: "https://staticfile.qq.com/odc-ios/pcb82ebc9bce7420f9d08563d9a35641c/95557cdb3d574dfea43f9832ef74e527/AdSurgeSDK.zip",
+            checksum: "171cd9f13ca8bd05205ccc13c616e484971d1fc6227a14f3ff90833d42aa68e2"
         ),
     ]
 )
