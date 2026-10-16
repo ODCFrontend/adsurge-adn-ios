@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdSurgeSDK",
-            url: "https://github.com/ODCFrontend/swift-package-manager-adsurge-adn/releases/download/0.0.3/AdSurgeSDK.zip",
-            checksum: "287bee4c88cf4e322b69c0d6eeeaa361e2c3bd3e042cb0c5c2032b61ea26800a"
+            url: "https://github.com/ODCFrontend/swift-package-manager-adsurge-adn/releases/download/0.0.4/AdSurgeSDK.zip",
+            checksum: "18ee97707534cad3a3a48fb9787d1dec9298f9cc9834d5cb524244b86f1f843c"
         ),
     ]
 )
