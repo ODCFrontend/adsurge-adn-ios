@@ -17,7 +17,7 @@ let package = Package(
       name: "AdSurgeSDK",
       url:
         "https://github.com/ODCFrontend/adsurge-adn-ios/releases/download/2.0.2/AdSurgeSDK.zip",
-      checksum: "9187e86e18e2fe75109cf23eacbeb0ba809ca221734850fa033d7dcc4f00c06c"
+      checksum: "e629fe5e5bafc2aab1f7bc57fbc6d63e4c7aa1316c77257b1c110311d2286203"
     )
   ]
 )
